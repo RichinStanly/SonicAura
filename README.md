@@ -15,10 +15,7 @@
 
 <img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/4c68b7f1-0223-47e3-8daa-c37409a389aa" />
 <img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/ff7d1acc-53f4-45d5-9738-26ec3764a212" />
-<img width="1920" height="1080" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/3f2ee2fb-c139-4a73-8bc2-33ea3d8275c6" />
-
-
-
+<img width="1920" height="1080" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/69b62a19-f4a3-43a7-b8d6-d17ad369ca56" />
 
 
 ---
@@ -67,4 +64,5 @@ The Polarity Gauge reveals the tone with which they discuss those topics.
 
 
 <p align="center">Designed & Engineered by <a href="https://github.com/RichinStanly">Richin Stanly</a></p>
+
 
