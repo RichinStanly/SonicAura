@@ -50,9 +50,7 @@ Click Generate Access Token and copy the key.
 
 Open app.py, find GENIUS_TOKEN = "..." (around line 18), and paste your key.
 
-4. Ignite the Engine
-
-streamlit run app.py
+4. Ignite the Engine: streamlit run app.py
 
 🧪 The Science Behind the Vibe
 Sonic Aura doesn't just count words; it measures context.
@@ -64,5 +62,6 @@ The Polarity Gauge reveals the tone with which they discuss those topics.
 
 
 <p align="center">Designed & Engineered by <a href="https://github.com/RichinStanly">Richin Stanly</a></p>
+
 
 
